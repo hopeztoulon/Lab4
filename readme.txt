@@ -1,5 +1,9 @@
 "Write a method that will sort an array."
 
-How do you get the file on to github?
-Will we be using git all the time this semester?
-Is commit a statement of something you did to the initial assignment?
+What size?
+Size of the array?
+How does it want to be sorted?
+Will it always be full?
+Specific algorithms is required
+is there an efficiency constraint?
+What should the output look like?
